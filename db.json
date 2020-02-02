@@ -1,11 +1,11 @@
 {
   "logs": [
     {
-      "message": "Test",
+      "id": 1,
+      "message": "DETERMINATION ",
       "attention": true,
-      "tech": "Satoshi Nakamoto",
-      "date": "2020-02-02T04:38:04.286Z",
-      "id": 1
+      "tech": "Thierry Gribeauval",
+      "date": "2020-02-02T05:00:39.345Z"
     }
   ],
   "techs": [
