@@ -1,25 +1,25 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Changed hard drive on workstation 005",
-      "attention": false,
-      "date": "03-02-2019",
-      "tech": "Sam Smith"
-    },
-    {
-      "id": 2,
-      "message": "Workstation 007 not posting",
+      "message": "first block mined",
       "attention": true,
-      "date": "03-02-2019",
-      "tech": "John Doe"
+      "tech": "Vitalik Buterin",
+      "date": "2020-02-02T02:55:27.523Z",
+      "id": 1
     },
     {
-      "id": 3,
-      "message": "Changed memory on workstation 050",
+      "message": "Entering future ",
+      "attention": true,
+      "tech": "Thierry Gribeauval",
+      "date": "2020-02-02T02:55:42.559Z",
+      "id": 2
+    },
+    {
+      "message": "consensus mechanism",
       "attention": false,
-      "date": "03-02-2019",
-      "tech": "Sara Wilson"
+      "tech": "Satoshi Nakamoto",
+      "date": "2020-02-02T02:56:12.527Z",
+      "id": 3
     }
   ],
   "techs": [
