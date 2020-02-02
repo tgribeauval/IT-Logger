@@ -1,10 +1,10 @@
 {
   "logs": [
     {
-      "message": "First block mined ",
+      "message": "Test",
       "attention": true,
-      "tech": "Thierry Gribeauval",
-      "date": "2020-02-02T04:04:54.104Z",
+      "tech": "Satoshi Nakamoto",
+      "date": "2020-02-02T04:38:04.286Z",
       "id": 1
     }
   ],
