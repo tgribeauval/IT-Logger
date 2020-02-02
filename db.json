@@ -6,6 +6,13 @@
       "attention": true,
       "tech": "Thierry Gribeauval",
       "date": "2020-02-02T05:00:39.345Z"
+    },
+    {
+      "message": "ALL YOU DO IS WIN",
+      "attention": false,
+      "tech": "Satoshi Nakamoto",
+      "date": "2020-02-02T05:08:12.472Z",
+      "id": 2
     }
   ],
   "techs": [
