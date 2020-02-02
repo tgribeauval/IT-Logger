@@ -1,25 +1,11 @@
 {
   "logs": [
     {
-      "message": "first block mined",
-      "attention": true,
-      "tech": "Vitalik Buterin",
-      "date": "2020-02-02T02:55:27.523Z",
-      "id": 1
-    },
-    {
-      "message": "Entering future ",
+      "message": "First block mined ",
       "attention": true,
       "tech": "Thierry Gribeauval",
-      "date": "2020-02-02T02:55:42.559Z",
-      "id": 2
-    },
-    {
-      "message": "consensus mechanism",
-      "attention": false,
-      "tech": "Satoshi Nakamoto",
-      "date": "2020-02-02T02:56:12.527Z",
-      "id": 3
+      "date": "2020-02-02T04:04:54.104Z",
+      "id": 1
     }
   ],
   "techs": [
