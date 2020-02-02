@@ -3,7 +3,6 @@ import { connect } from "react-redux";
 import PropTypes from "prop-types";
 import { addLogs } from "../../actions/logActions";
 import M from "materialize-css/dist/js/materialize.min.js";
-import TechListModal from "../techs/TechListModal";
 import TechSelectOptions from "../techs/TechSelectOptions";
 
 const AddLogModal = ({ addLogs }) => {
